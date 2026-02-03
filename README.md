@@ -24,8 +24,9 @@ Below you can find a preview of the 10 wallpapers included in this pack.
 
 ## Installation & Usage
 
-1. **Download:** Go to the [Releases](https://github.com/complicatiion/batocera_pulse_wallpaper) section and download the latest `.zip` file.
-2. **Batocera Integration:** - Copy the files to your Batocera `/userdata/screenshots/` or directly into your custom theme folder under `/assets/wallpapers/`.
+1. To save images easily, simply right-click on the desired image and select the "Save as" option from the context menu.
+2. **Download:** Go to the [Releases](https://github.com/complicatiion/batocera_pulse_wallpaper) section and download the latest `.zip` file.
+3. **Batocera Integration:** - Copy the files to your Batocera `/userdata/screenshots/` or directly into your custom theme folder under `/assets/wallpapers/`.
    - Select the wallpaper via the UI settings in your theme menu.
 
 ---
