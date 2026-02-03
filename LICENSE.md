@@ -8,7 +8,6 @@ GitHub: **https://github.com/complicatiion/batocera_pulse_wallpaper**
 - **Not allowed:** any commercial use
 - **Required:** credit Copyright (c) 2026 \*\*complicatiion | sven404 | sksdesign\*\*  
 
-GitHub: \*\*https://github.com/complicatiion/batocera\_pulse\_wallpaper\*\*
 
 ---
 
