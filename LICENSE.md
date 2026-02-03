@@ -1,29 +1,57 @@
-# License
+# LICENSE (Batocera Pulse Wallpaper) — Non-Commercial, Attribution Required
 
-Copyright (c) 2026 complicatiion | sven404 | sksdesign
+Copyright (c) 2026 **complicatiion | sven404 | sksdesign**  
+GitHub: **https://github.com/complicatiion/batocera_pulse_wallpaper**
 
-## 1. Ownership & Copyright
-All wallpapers and graphical assets in this repository were created by **complicatiion | sven404 | sksdesign**. The author retains all moral and intellectual property rights to these original works.
+## Summary (Non-binding)
+- **Allowed:** private, non-commercial use
+- **Not allowed:** any commercial use
+- **Required:** credit **[YOUR NAME]** and link to the GitHub repository
 
-## 2. Permitted Use (CC BY-NC-SA 4.0)
-These assets are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+---
 
-To view a copy of this license, visit:
-http://creativecommons.org/licenses/by-nc-sa/4.0/
+## 1) License Grant (Private, Non-Commercial Use)
+Subject to the terms of this license, you are granted a non-exclusive, revocable license to use the wallpaper(s) contained in this repository (the “Work”) for **private, non-commercial** purposes, including to:
+- download and store the Work,
+- display and use the Work on your personal devices,
+- integrate the Work into non-commercial personal setups/themes,
+- make modifications for private use (e.g., crop, resize, color-adjust).
 
-**Under this license, you are free to:**
-* **Share:** Copy and redistribute the material in any medium or format.
-* **Adapt:** Remix, transform, and build upon the material.
+## 2) Attribution (Required)
+Any use of the Work (including private use) must include clear attribution to the author and a link to the original repository.
 
-**Under the following terms:**
-* **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-* **Non-Commercial:** You may **NOT** use the material for commercial purposes (e.g., selling the pack, including it in paid handheld images/builds, or using it for advertising).
-* **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+**Use the following attribution text (unchanged):**  
+`complicatiion | sven404 | sksdesign — https://github.com/complicatiion/batocera_pulse_wallpaper`
 
-## 3. Batocera Community Focus
-This wallpaper pack was specifically created for the **Batocera.linux community**. Use within private Batocera builds, themes, and community showcases is highly encouraged and welcomed.
+Where to place attribution:
+- in the theme/setup credits/info/README, **if available**, or
+- in a bundled credits/about file (e.g., `README.md`) included with the setup/theme.
 
-## 4. Disclaimer of Warranty and Limitation of Liability
+## 3) No Commercial Use
+**Commercial use is strictly prohibited.** Commercial use includes, without limitation:
+- selling, licensing, renting, or otherwise monetizing the Work,
+- including the Work in paid products, themes, bundles, or marketplaces,
+- using the Work in advertising, sponsorships, or other promotional materials,
+- distributing the Work behind paywalls or “supporter-only” access,
+- using the Work as part of a product or service for which a fee is charged, directly or indirectly.
+
+If you want to use the Work commercially, you must obtain **separate, written permission** from the author.
+
+## 4) Redistribution / Sharing
+You may redistribute the Work **only for non-commercial purposes** and only if **all** of the following conditions are met:
+1. This license file is included **unchanged**.
+2. Attribution is provided as required in Section 2.
+3. If you modified the Work, you clearly label it as modified (e.g., “modified/cropped”).
+4. You do not charge any fee for access to the Work.
+
+Preferred alternative: link to the original repository instead of re-uploading the files.
+
+## 5) No Trademark or Publicity Rights
+This license does not grant any rights to trademarks, logos, names, or publicity/privacy rights that may be associated with the Work.
+
+## 6) Disclaimer of Warranty
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OF THE WORK.
+
 This project is an independent creation and is **not** affiliated with, authorized, maintained, sponsored, or endorsed by the official **Batocera.linux** team or its affiliates. "Batocera" is the property of its respective trademark holders. This pack is provided "as-is" without any warranties.
 
 To the maximum extent permitted by applicable law, the Software and any related materials are provided on an “AS IS” and “AS AVAILABLE” basis, without warranty of any kind, whether express, implied, statutory, or otherwise. This includes, without limitation, any implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
@@ -31,3 +59,18 @@ To the maximum extent permitted by applicable law, the Software and any related 
 In no event shall the author or copyright holder be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, data, or use, whether in an action in contract, tort (including negligence), strict liability, or otherwise, arising out of or in any way connected with the use of or inability to use the Software, even if advised of the possibility of such damages.
 
 Where liability cannot be excluded or limited under applicable law, the author’s aggregate liability arising out of or in connection with the Software shall be limited to the amount, if any, actually paid by you for the license to use the Software.
+
+
+---
+
+## 7) Definitions
+- **Private use**: use on personal devices and personal installations for non-commercial purposes.
+- **Non-commercial**: not primarily intended for or directed toward commercial advantage or monetary compensation, whether direct or indirect.
+
+---
+
+## 8) Batocera Community Focus
+This wallpaper pack was specifically created for the **Batocera.linux community**. Use within private Batocera builds, themes, and community showcases is highly encouraged and welcomed.
+
+---
+
