@@ -6,7 +6,9 @@ GitHub: **https://github.com/complicatiion/batocera_pulse_wallpaper**
 ## Summary (Non-binding)
 - **Allowed:** private, non-commercial use
 - **Not allowed:** any commercial use
-- **Required:** credit **[YOUR NAME]** and link to the GitHub repository
+- **Required:** credit Copyright (c) 2026 \*\*complicatiion | sven404 | sksdesign\*\*  
+
+GitHub: \*\*https://github.com/complicatiion/batocera\_pulse\_wallpaper\*\*
 
 ---
 
