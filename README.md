@@ -9,18 +9,16 @@ This pack features a vibrant, colorful "glitchy" art style, perfect for modern r
 
 Below you can find a preview of the 10 wallpapers included in this pack.
 
-| | | |
-|:---:|:---:|:---:|
-| ![Preview 1](previews/01_thumb.jpg) <br> **#01** 
-| ![Preview 2](previews/02_thumb.jpg) <br> **#02** 
-| ![Preview 3](previews/03_thumb.jpg) <br> **#03** |
-| ![Preview 4](previews/04_thumb.jpg) <br> **#04** 
-| ![Preview 5](previews/05_thumb.jpg) <br> **#05** 
-| ![Preview 6](previews/06_thumb.jpg) <br> **#06** |
-| ![Preview 7](previews/07_thumb.jpg) <br> **#07** 
-| ![Preview 8](previews/08_thumb.jpg) <br> **#08** 
-| ![Preview 9](previews/09_thumb.jpg) <br> **#09** |
-| ![Preview 10](previews/10_thumb.jpg) <br> **#10** | |
+![Preview 1](MIX1.png)
+![Preview 2](MIX2.png)
+![Preview 3](MIX3.png)
+![Preview 4](MIX4.png)
+![Preview 5](MIX5.png)
+![Preview 6](MIX6.png)
+![Preview 7](MIX7.png)
+![Preview 8](MIX8.png)
+![Preview 9](MIX9.png)
+![Preview 10](MIX10.png)
 
 ---
 
