@@ -1,6 +1,6 @@
 # LICENSE (Batocera Pulse Wallpaper) — Non-Commercial, Attribution Required
 
-Copyright (c) 2026 **complicatiion | sven404 | sksdesign**  
+Copyright (c) 2026 **complicatiion | sksdesign | sven404**  
 GitHub: **https://github.com/complicatiion/batocera_pulse_wallpaper**
 
 ## Summary (Non-binding)
