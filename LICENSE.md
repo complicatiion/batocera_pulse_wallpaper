@@ -55,8 +55,6 @@ THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 This project is an independent creation and is **not** affiliated with, authorized, maintained, sponsored, or endorsed by the official **Batocera.linux** team or its affiliates. "Batocera" is the property of its respective trademark holders. This pack is provided "as-is" without any warranties.
 
-To the maximum extent permitted by applicable law, the Software and any related materials are provided on an “AS IS” and “AS AVAILABLE” basis, without warranty of any kind, whether express, implied, statutory, or otherwise. This includes, without limitation, any implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
-
 In no event shall the author or copyright holder be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, data, or use, whether in an action in contract, tort (including negligence), strict liability, or otherwise, arising out of or in any way connected with the use of or inability to use the Software, even if advised of the possibility of such damages.
 
 Where liability cannot be excluded or limited under applicable law, the author’s aggregate liability arising out of or in connection with the Software shall be limited to the amount, if any, actually paid by you for the license to use the Software.
